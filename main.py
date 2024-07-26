@@ -24,11 +24,7 @@ async def read_root(input:dict):
     Delusional_Disorder = str(predicted[0][3])
     BiPolar1 = str(predicted[0][4])
     BiPolar2 = str(predicted[0][5])
-<<<<<<< HEAD
-    Generalized_Anxiety = str(predicted[0][]6)
-=======
     Generalized_Anxiety = str(predicted[0][6])
->>>>>>> f18d5ee8ff4ad1fa8a93d82d50eaee180eed1f25
     Panic_Disorder = str(predicted[0][7])
     Specific_Phobia = str(predicted[0][8])
     Social_Anxiety = str(predicted[0][9])
